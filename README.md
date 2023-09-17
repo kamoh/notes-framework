@@ -61,4 +61,24 @@ Throughout the day, I try to move any todo items to the proper bucket if it'll t
 --
 ```
 
+If I have a list of items that need to be done, I'll organize them in a `do` list:
+
+```
+do now
+  - do the first thing
+  - do the second thing
+  - do the third thing
+```
+
+As I cross them off, I use the same `-> done` notation:
+
+```
+do now
+  - do the first thing
+    -> done
+  - do the second thing
+    -> done
+  - do the third thing
+```
+
 That's it! This lightweight note-taking structure has been a big help to me over the years. I hope it's useful for you too.

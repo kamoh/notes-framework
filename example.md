@@ -18,4 +18,13 @@
     -> done, she wasn't kidding
 
 --
+
+do this afternoon
+  - wash the car
+    -> done
+  - feed the cat
+    -> done
+  - reformat the dog
+  - walk the hard drive
+
 ```
