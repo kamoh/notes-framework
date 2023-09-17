@@ -6,7 +6,7 @@ I started using this lightweight daily note-taking framework in 2015, and it's b
 
 Each day's notes starts with a timestamp in this format:
 
-```bash
+```
 ==========
 9/15/23
 ==========
@@ -14,7 +14,7 @@ Each day's notes starts with a timestamp in this format:
 
 Meetings are noted in this convention:
 
-```bash
+```
 -- meeting name
 
   - list of internal attendees
@@ -27,7 +27,7 @@ Meetings are noted in this convention:
 
 Todos that come up are indicated with *:
 
-```bash
+```
 -- meeting name
 
   - list of internal attendees
@@ -42,7 +42,7 @@ Todos that come up are indicated with *:
 
 Throughout the day, I try to move any todo items to the proper bucket if it'll take more than 5 minutes to do, or do it immediately if it will take less time, then indicate the resolution with ->:
 
-```bash
+```
 -- meeting name
 
   - list of internal attendees
