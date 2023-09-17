@@ -6,6 +6,7 @@
 - started repo for note-taking framework
 
 * commit first changes and push to repo
+  -> done
 * share with engineering team
 
 -- quick meeting with dog
