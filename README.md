@@ -40,7 +40,7 @@ Todos that come up are indicated with *:
 --
 ```
 
-Throughout the day, I try to move any todo items to the proper bucket if it'll take more than 5 minutes to do, or do it immediately if it will take less time, then indicate the resolution with ->:
+Throughout the day, I try to move any todo items to the proper bucket if it'll take more than 5 minutes to do, or do it immediately if it will take less time, then indicate the resolution with `->`:
 
 ```
 -- meeting name
