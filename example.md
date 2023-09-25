@@ -27,4 +27,7 @@ do this afternoon
   - reformat the dog
   - walk the hard drive
 
+shipping to production at 3:30
+  - done at 3:38
+  - fix typo in 404 error page
 ```

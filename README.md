@@ -81,4 +81,12 @@ do now
   - do the third thing
 ```
 
+When something happens that is tied to a specific time, like a noticeable site issue or a deployment I kicked off and completed, I make sure to log both the start and end times (or any other time so of note) so I have my own paper trail of timestamps:
+
+```
+shipping to prod at 2:16
+  - done at 2:25
+  - update to add support for martian sales tax
+```
+
 That's it! This lightweight note-taking structure has been a big help to me over the years. I hope it's useful for you too.
